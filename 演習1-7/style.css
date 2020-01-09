@@ -1,0 +1,44 @@
+.main-visual{
+	wideth: 840px;
+	height: 400px;
+	margin: 0 auto;
+}
+.main-visual-text{
+	color: gray;
+}
+.main-visual-content{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.main-visual{
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+.clearfix{
+	width: 800px;
+	margin: 0 auto;
+}
+.blog-boxes{
+	padding-bottom: 50px;
+}
+.blog-box1{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	border-bottom: 0.5px solid #c6c6c6;
+}
+.blog-box2{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 0.5px solid #c6c6c6;
+}
+.blog-box3{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 0.5px solid #c6c6c6;
+}
+.blog-box4{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 0.5px solid #c6c6c6;
+}
